@@ -5,9 +5,9 @@
 <ul>
     <li><img src="./src/assets/react.svg" width="30px"><p>React: para desenvolver os componentes e permitir uma interação mais rápida para
     o usuário atráves do uso de State;</p></li>
-    <li><img src="./src/assets/js.png" width="30px"><p>Javascript: para realizar requisições HTTP para a minha API;</p></li>
-    <li><img src="./src/assets/css.png" width="30px"><p>CSS: para estilizar a interface;</p></li>
-    <li><img src="./src/assets/html.png" width="30px"><p>HTML: para definir uma raiz para a renderização dos componentes de React.</p></li>
+    <li><p><img src="./src/assets/js.png" width="30px">Javascript: para realizar requisições HTTP para a minha API;</p></li>
+    <li><p><img src="./src/assets/css.png" width="30px">CSS: para estilizar a interface;</p></li>
+    <li><p><img src="./src/assets/html.png" width="30px">HTML: para definir uma raiz para a renderização dos componentes de React.</p></li>
 </ul>
 
 <h2><img src="./src/assets/question.png" width="30px">Como funciona?</h2>
