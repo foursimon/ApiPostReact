@@ -1,0 +1,24 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+form div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+
+form textarea{
+    resize: none;
+    width: 164px;
+}
+
+form button{
+    align-self: start;
+    margin-top: 5px;
+    padding: 0.5rem;
+}

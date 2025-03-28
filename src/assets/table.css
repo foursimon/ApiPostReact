@@ -1,0 +1,47 @@
+table{
+    display: block;
+    max-height: 500px;
+    border: 1px solid;
+    text-align: center;
+    overflow: auto;
+    border-collapse: collapse;
+}
+.table-container{
+    max-width: 1000px;
+    place-items: center;
+}
+table th, table td{
+    border: 1px solid;
+    padding: 10px;
+}
+table tbody tr:hover{
+    background-color: rgb(20, 2, 34);
+}
+
+table thead{
+    position: sticky;
+    top: 0;
+    background-color: black;
+    outline: 1px solid;
+}
+.container-menu{
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.container-menu .menu-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+.menu-list .menu-item{
+    list-style: none;
+    cursor: pointer;
+}
+table tfoot{
+    position: sticky;
+    bottom: 0;
+    background-color: black;
+    outline: 1px solid;
+}
